@@ -86,6 +86,7 @@ def two_turtles(color, thickness):
     turtle1= rg.SimpleTurtle()
     turtle1.pen = rg.Pen('green', thickness)
     turtle1.forward(100)
+    tur
 
     win.close_on_mouse_click()
 ###############################################################################
