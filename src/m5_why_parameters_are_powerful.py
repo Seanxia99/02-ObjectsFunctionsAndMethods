@@ -130,7 +130,7 @@ def better_draw_circles(point):
     turtle.go_to(point)
     turtle.set_heading(0)  # Point "east" (towards the right)
 
-    for k in range(60, 80, 90):  # k becomes 1, 2, 3, ... 10
+    for k in range(20, 40, 60):  # k becomes 1, 2, 3, ... 10
 
         turtle.pen_down()
 
